@@ -1,0 +1,45 @@
+# Arquivos e diretórios do Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos e diretórios gerados pelo JSF
+*.class
+*.war
+*.ear
+*.jar
+*.zip
+*.xml
+
+# Diretório de saída do IDE
+.classpath
+
+# Arquivos de configuração do projeto
+.project
+
+# Diretório do sistema
+.DS_Store
+
+# Logs e saída de erro
+*.log
+*.log.*
+*.diff
+
+# Dependências do Maven (geralmente no diretório .m2)
+.m2/
+
+# Dependências do Gradle (geralmente no diretório .gradle)
+.gradle/
+
+# Arquivos de configuração do VS Code (se você também estiver usando o VS Code)
+.vscode/
